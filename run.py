@@ -16,13 +16,13 @@ print(f'\n\n{c}  [ Host Finder buat sobat Gretonger ]\n\n\t{r}> Author: njank yu
 
 '''
 	
-Dibuat oleh Njank Yuti
+Dibuat oleh ibsdcorp
 
 Cari Saya:
-    https://github.com/N74NK
-    https://facebook.com/njnk.xnxx
-    https://instagram.com/n74nk420
-    https://solozstring.blogspot.com
+    https://github.com/ibsdcorp
+    https://facebook.com/ibsdcorp
+    https://instagram.com/ibsd_shop
+    https://ibsdcorp.blogspot.com
 
 Catatan:
 	Terimakasih untuk Indoxploit
